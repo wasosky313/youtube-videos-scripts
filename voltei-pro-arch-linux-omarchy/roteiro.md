@@ -9,6 +9,7 @@
 - [ ] Claude Code / IA ajudando a resolver um bug real no terminal
 - [ ] Comparativo side-by-side: distro anterior vs Arch com Omarchy
 - [ ] Wiki do Arch aberta no navegador (mostrar que a doc ainda é rei)
+- [ ] Terminal mostrando o problema dos acentos com teclado em inglês (ã, é, ñ, etc.)
 
 ---
 
@@ -19,6 +20,10 @@
 "Fala galera! Então... depois de 10 anos usando outras distros, eu voltei pro Arch Linux.
 
 Sim, você ouviu certo. 10 anos. E olha, não foi uma decisão fácil — quem já instalou Arch na raça sabe o trauma que isso pode causar kkk.
+
+Mas antes de continuar: esse canal não vai ser de vídeos técnicos e pesados não. A ideia aqui é aprender junto, errando, rindo dos erros, e contando o que acontece de verdade — sem firula. Se você curte esse estilo, já deixa o like e se inscreve.
+
+Inclusive, o primeiro problema que eu tive quando voltei pro Arch foi com o teclado. Meu teclado é em inglês, e aí você tenta digitar um acento em espanhol ou em português... e não sai nada. Ou sai a coisa errada kkk. Isso já virou um vídeo aqui, porque eu sei que não sou o único que passou por isso.
 
 Mas as coisas mudaram MUITO, e hoje eu vou te mostrar o que me fez voltar e por que dessa vez eu acho que vai ser diferente."
 
