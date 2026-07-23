@@ -28,12 +28,13 @@ Se você sempre quis usar Arch mas tinha medo de quebrar tudo, esse vídeo é pr
 ⏱️ CAPÍTULOS
 
 0:00 — Intro: voltei pro Arch depois de 10 anos
-0:45 — Por que eu tinha saído
-2:00 — O que é o Omarchy e como ele mudou tudo
-4:30 — Como a IA virou meu copiloto no Linux
-6:30 — O que o Arch ainda faz melhor que qualquer distro
-8:30 — Demonstração ao vivo
-11:00 — Conclusão
+0:45 — 2012: como tudo começou (Ubuntu, Debian e 40 GB que mudaram tudo)
+3:00 — Por que eu tinha saído
+4:15 — O que é o Omarchy e como ele mudou tudo
+6:30 — Como a IA virou meu copiloto no Linux
+8:30 — O que o Arch ainda faz melhor que qualquer distro
+10:30 — Demonstração ao vivo
+13:00 — Conclusão
 
 ---
 

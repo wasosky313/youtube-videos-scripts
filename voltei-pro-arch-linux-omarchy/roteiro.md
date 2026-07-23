@@ -24,19 +24,41 @@ Mas as coisas mudaram MUITO, e hoje eu vou te mostrar o que me fez voltar e por 
 
 ---
 
-## CONTEXTO — POR QUE EU TINHA SAÍDO (0:45 – 2:00)
+## COMO TUDO COMEÇOU — 2012 (0:45 – 3:00)
 
-**[Gravação de tela ou imagens ilustrativas]**
+**[Câmera no rosto / imagens retrô ilustrativas]**
 
-"Pra entender o porquê da volta, deixa eu te contar por que eu tinha saído.
+"Pra entender a volta, deixa eu te contar como tudo começou.
 
-Lá atrás, instalar Arch era um processo longo, manual, com muito espaço pra errar. Qualquer atualização errada podia quebrar o sistema. E quando quebrava, você ficava horas no terminal tentando arrumar.
+Era 2012. Eu era estudante de faculdade, usuário de Ubuntu. Em casa rodava Debian. Achava que era o máximo kkk.
 
-Fui pra Ubuntu, depois Fedora, Manjaro... cada uma com suas vantagens. Mas nunca teve aquela sensação de controle total que o Arch dá."
+Aí um amigo chegou com uma informação que mudou tudo: o repositório offline do Arch Linux pesava só 40 GB. Ubuntu? 100 GB. Debian? Uns 80 e pouco.
+
+Não vou mentir — foi literalmente por isso que eu entrei no Arch. Não foi filosofia, não foi estética... foi espaço em disco mesmo! kkkkk
+
+**[Pausa cômica / corte]**
+
+Mas é que eu tinha um PC bem humilde: i3 de segunda geração. E o Debian com GNOME e o Ubuntu às vezes travavam nessa máquina. O Arch, não. O Arch brilhava.
+
+E foi aí que eu me apaixonei pelo XFCE — configurado pra simular o visual do macOS da época. Cara, eu achava aquilo o máximo do universo. Sistema leve, bonito, rápido... e meu.
+
+A partir daí não teve mais jeito."
 
 ---
 
-## O QUE MUDOU — OMARCHY (2:00 – 4:30)
+## CONTEXTO — POR QUE EU TINHA SAÍDO (3:00 – 4:15)
+
+**[Gravação de tela ou imagens ilustrativas]**
+
+"Mas aí a vida foi acontecendo. PC novo, menos restrição de espaço, trabalho, pressa...
+
+Instalar Arch na raça tomava tempo. Qualquer atualização mal feita podia quebrar o sistema. E quando quebrava, eram horas no terminal tentando arrumar.
+
+Fui pra outras distros. Cada uma com suas vantagens. Mas nunca teve aquela sensação de controle total que só o Arch dá."
+
+---
+
+## O QUE MUDOU — OMARCHY (4:15 – 6:30)
 
 **[Print: terminal com instalação do Omarchy rolando]**
 
@@ -50,7 +72,7 @@ Olha como ficou o meu desktop. Waybar, Hyprland, tudo integrado. E partiu de zer
 
 ---
 
-## IA COMO COPILOTO (4:30 – 6:30)
+## IA COMO COPILOTO (6:30 – 8:30)
 
 **[Print: Claude Code ou IA resolvendo um erro no terminal]**
 
@@ -62,7 +84,7 @@ Isso baixou absurdamente a barreira de entrada. Qualquer pessoa com vontade de a
 
 ---
 
-## AS VANTAGENS QUE CONTINUAM SENDO IMBATÍVEIS (6:30 – 8:30)
+## AS VANTAGENS QUE CONTINUAM SENDO IMBATÍVEIS (8:30 – 10:30)
 
 **[Print: paru instalando pacote do AUR]**
 
@@ -80,7 +102,7 @@ E você aprende Linux de verdade. Depois que você entende o Arch, qualquer outr
 
 ---
 
-## DEMONSTRAÇÃO RÁPIDA (8:30 – 11:00)
+## DEMONSTRAÇÃO RÁPIDA (10:30 – 13:00)
 
 **[Gravação de tela em tempo real]**
 
@@ -91,7 +113,7 @@ E você aprende Linux de verdade. Depois que você entende o Arch, qualquer outr
 
 ---
 
-## CONCLUSÃO (11:00 – 12:00)
+## CONCLUSÃO (13:00 – 14:00)
 
 **[Câmera no rosto]**
 
