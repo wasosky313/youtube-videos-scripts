@@ -56,13 +56,19 @@ A partir daí não teve mais jeito."
 
 ## CONTEXTO — POR QUE EU TINHA SAÍDO (3:00 – 4:15)
 
-**[Gravação de tela ou imagens ilustrativas]**
+**[Câmera no rosto]**
 
-"Mas aí a vida foi acontecendo. PC novo, menos restrição de espaço, trabalho, pressa...
+"Mas aí a vida foi acontecendo. E o maior obstáculo pra continuar no Arch não foi técnico — foi o tempo.
 
-Instalar Arch na raça tomava tempo. Qualquer atualização mal feita podia quebrar o sistema. E quando quebrava, eram horas no terminal tentando arrumar.
+Entre trabalho e vida social, não sobra tempo pra ficar brincando de sistema operacional. E aí você olha pro Ubuntu, pro Fedora... e pensa: 'já vem pronto, já funciona, me deixa em paz.' Entendo quem faz essa escolha, porque eu fiz também.
 
-Fui pra outras distros. Cada uma com suas vantagens. Mas nunca teve aquela sensação de controle total que só o Arch dá."
+O problema é que eu nunca fiquei satisfeito de verdade. Sempre faltava aquele controle, aquela sensação de que o sistema é realmente seu.
+
+**[Transição para Omarchy]**
+
+E foi aí que o Omarchy entrou na história. Não é uma distro nova, não é uma versão modificada do Arch — é literalmente Arch Linux. O que o Omarchy faz é ser uma camada de personalização que já configura tudo pra você, sem tirar nenhuma essência do sistema. Você instala e já tem um Arch funcionando, do jeito certo, sem precisar gastar um dia inteiro nisso.
+
+É a resposta perfeita pra quem quer Arch mas não tem tempo de montar tudo do zero."
 
 ---
 
@@ -144,5 +150,6 @@ Se curtiu o vídeo, deixa o like e se inscreve pra não perder os próximos. At�
 ---
 
 ## Ideias para próximos vídeos
+- [ ] **Instalação ao vivo do Arch com Omarchy** — mostrar na prática como é fácil, do zero ao desktop funcionando (gancho perfeito pra quem ficou com vontade depois desse vídeo)
 - [ ] Como configurar o rkvm pra compartilhar teclado e mouse entre várias PCs via hardware
 - [ ] Como resolver o problema dos acentos em espanhol/português com teclado em inglês no Arch
