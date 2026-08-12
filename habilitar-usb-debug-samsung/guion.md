@@ -98,6 +98,9 @@ Si te gustó, dale like, suscríbete y cuéntame en los comentarios para qué va
 
 ---
 
+## Referencias e inspiración
+- Video referencia: https://www.youtube.com/shorts/Ax4zQpcy-So
+
 ## Enlaces para la descripción
 - Samsung Support: https://www.samsung.com/es/
 - Android Debug Bridge (ADB): https://developer.android.com/tools/adb
