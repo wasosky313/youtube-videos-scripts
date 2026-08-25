@@ -32,18 +32,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 That's it. This command downloads and installs Ollama, including the server that manages your models in the background.
 
-On Windows you've got two options, pick whichever you like:
+On Windows there's a graphical installer — link in the description, one click.
 
-- **Graphical installer:** download `OllamaSetup.exe` from ollama.com/download/windows — link in the description — and double-click it. One installer, no weird steps.
-- **Winget (if you prefer the command line):** open PowerShell and run:
-
-```powershell
-winget install Ollama.Ollama
-```
-
-Either way, Ollama starts running in the background as soon as installation finishes — nothing else to open.
-
-To confirm it worked, on Linux/Mac use the terminal and on Windows use PowerShell or CMD:
+To confirm it worked:
 
 ```bash
 ollama --version
@@ -51,7 +42,7 @@ ollama --version
 
 Got a version number? You're ready. No restart, no configuration needed.
 
-*Screen: on Linux/Mac, terminal running the curl command. On Windows, the graphical installer finishing up and PowerShell showing `ollama --version` with the installed version.*
+*Screen: terminal running the curl command and showing `ollama --version` with the installed version.*
 
 ---
 
